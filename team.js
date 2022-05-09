@@ -553,18 +553,6 @@ const team = {
             "quote": "This is the best place to make a global impact while treating others with kindness and love."
         },
         {
-            "id": 49,
-            "fullname": "Dhriti Kalpa Saha",
-            "imageUrl": "https://firebasestorage.googleapis.com/v0/b/speechify-slack-bot.appspot.com/o/dhriti.jpg?alt=media&token=f6020c9d-7b24-4bec-b80f-ac021ece1f40",
-            "country": "India",
-            "city": "Agartala",
-            "lat": "23.831457",
-            "lng": "91.286781",
-            "colorIndex": 0,
-            "position": "Web & Chrome Engineer",
-            "quote": "I get to set my own goals and crush them with support from some of the most talented people in the industry. Speechify is the perfect example of outstanding product meets awesome culture."
-        },
-        {
             "id": 50,
             "fullname": "Kenny Batista",
             "imageUrl": "https://firebasestorage.googleapis.com/v0/b/speechify-slack-bot.appspot.com/o/kenny.png?alt=media&token=786b8150-74f0-4bba-b2d9-dedd7246cbad",
