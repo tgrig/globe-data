@@ -1286,6 +1286,6 @@ const team = {
         }
     ],
     "countries": 109,
-    "nomads": 0,
+    "nomads": 4,
     "people": 112
 }
