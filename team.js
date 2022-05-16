@@ -1287,5 +1287,32 @@ const team = {
     ],
     "countries": 25,
     "nomads": 4,
-    "people": 112
+    "people": 112,
+    "membersByCountry": {
+        "US": 36,
+        "India": 14,
+        "Ukraine": 9,
+        "Philippines": 17,
+        "Georgia": 4,
+        "Canada": 3,
+        "South Africa": 1,
+        "UAE": 4,
+        "France": 1,
+        "Bangladesh": 2,
+        "UK": 4,
+        "Poland": 3,
+        "Germany": 1,
+        "Netherlands": 1,
+        "Czech Republic": 1,
+        "Portugal": 1,
+        "Switzerland": 2,
+        "Armenia": 1,
+        "Austria": 1,
+        "Morocco": 1,
+        "China": 1,
+        "Turkey": 1,
+        "Finland": 1,
+        "Nigeria": 1,
+        "Spain": 1
+    }
 }
