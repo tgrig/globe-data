@@ -907,7 +907,7 @@ const team = {
             "country": "Morocco",
             "city": "Temara",
             "lat": "33.9203",
-            "lng": "6.9274",
+            "lng": "-6.9274",
             "colorIndex": 1,
             "position": "Android Engineer",
             "quote": "I can listen to books everywhere!"
