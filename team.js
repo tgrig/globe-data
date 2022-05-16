@@ -1285,7 +1285,7 @@ const team = {
             "quote": "Things I like about working at speechify are their values and principles and how the leadership of the company follow what they preach. Everyone is very supportive, approachable and connected despite living in different countries across the world."
         }
     ],
-    "countries": 109,
+    "countries": 25,
     "nomads": 4,
     "people": 112
 }
