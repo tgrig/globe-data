@@ -8,7 +8,7 @@ const team = {
             "city": "Miami",
             "lat": "25.761681",
             "lng": "-80.191788",
-            "colorIndex": 2,
+            "colorIndex": 0,
             "position": "Founder & CEO",
             "quote": "I read everything with Speechify!"
         },
@@ -32,7 +32,7 @@ const team = {
             "city": "Miami",
             "lat": "26.761681",
             "lng": "-80.191788",
-            "colorIndex": 2,
+            "colorIndex": 0,
             "position": "Head of Product & Engineering",
             "quote": "Our save to mobile feature lets me listen on the move."
         },
@@ -44,7 +44,7 @@ const team = {
             "city": "Miami",
             "lat": "26.761681",
             "lng": "-81.191788",
-            "colorIndex": 1,
+            "colorIndex": 2,
             "position": "Head of Growth",
             "quote": "Speechify = self reliance."
         },
@@ -92,7 +92,7 @@ const team = {
             "city": "Virginia",
             "lat": "36.8516",
             "lng": "-75.9792",
-            "colorIndex": 1,
+            "colorIndex": 2,
             "position": "Platform Engineering Lead",
             "quote": "Highlighting makes it so much easier to follow along with what I'm listening to."
         },
@@ -104,7 +104,7 @@ const team = {
             "city": "Bengaluru",
             "lat": "12.971599",
             "lng": "77.594566",
-            "colorIndex": 0,
+            "colorIndex": 2,
             "position": "Web & Chrome Developer",
             "quote": "It's amazing how quickly you can read anything with Speechify."
         },
@@ -114,8 +114,8 @@ const team = {
             "imageUrl": "https://firebasestorage.googleapis.com/v0/b/speechify-slack-bot.appspot.com/o/ben.jpeg?alt=media&token=bac26f11-4ea4-4307-91c3-d7aac4f5d7d9",
             "country": "US",
             "city": "Nomad",
-            "lat": "-27.545361",
-            "lng": "151.916077",
+            "lat": "47.751076",
+            "lng": "-120.740135",
             "colorIndex": 0,
             "position": "Mobile Product Manager",
             "quote": "I start nearly everyday listening to articles about product development while making breakfast."
@@ -128,7 +128,7 @@ const team = {
             "city": "Kharkiv",
             "lat": "49.993500",
             "lng": "36.230385",
-            "colorIndex": 2,
+            "colorIndex": 0,
             "position": "iOS Project Manager",
             "quote": "It's clear how much ❤️ the team has for this product."
         },
@@ -140,7 +140,7 @@ const team = {
             "city": "Kharkiv",
             "lat": "50.993500",
             "lng": "36.230385",
-            "colorIndex": 2,
+            "colorIndex": 1,
             "position": "iOS Developer",
             "quote": "Speechify is all about Listening 🤓"
         },
@@ -152,7 +152,7 @@ const team = {
             "city": "Cagayan de Oro",
             "lat": "8.454236",
             "lng": "124.631897",
-            "colorIndex": 0,
+            "colorIndex": 2,
             "position": "Customer Success Manager",
             "quote": "Radical autonomy! We work distributed but collectively for the same bigger goal."
         },
@@ -164,7 +164,7 @@ const team = {
             "city": "Hyderabad",
             "lat": "17.385044",
             "lng": "78.486671",
-            "colorIndex": 0,
+            "colorIndex": 1,
             "position": "QA Engineer",
             "quote": "Great quality of voices with so many accents to choose from!"
         },
@@ -188,7 +188,7 @@ const team = {
             "city": "Tbilisi",
             "lat": "41.715137",
             "lng": "44.827095",
-            "colorIndex": 0,
+            "colorIndex": 2,
             "position": "iOS Engineering Lead",
             "quote": "I love the simplicity of the UI/UX and how powerful the core functionality is."
         },
@@ -212,7 +212,7 @@ const team = {
             "city": "Kharkiv",
             "lat": "49.993500",
             "lng": "37.230385",
-            "colorIndex": 2,
+            "colorIndex": 0,
             "position": "QA Engineer",
             "quote": "I love working on such an engaged team on a top of the line product that started from a gorgeous idea."
         },
@@ -236,7 +236,7 @@ const team = {
             "city": "Cape Town",
             "lat": "-33.924870",
             "lng": "18.424055",
-            "colorIndex": 2,
+            "colorIndex": 0,
             "position": "Web & Chrome Developer",
             "quote": "The ability to listen at 400+ WPM is a superpower."
         },
@@ -248,7 +248,7 @@ const team = {
             "city": "Dubai",
             "lat": "25.204849",
             "lng": "55.270782",
-            "colorIndex": 0,
+            "colorIndex": 2,
             "position": "Android Engineering Lead",
             "quote": "I love that Speechify gives me the ability to read any book!"
         },
@@ -260,7 +260,7 @@ const team = {
             "city": "Lyon",
             "lat": "45.764042",
             "lng": "4.835659",
-            "colorIndex": 1,
+            "colorIndex": 0,
             "position": "Web & Chrome Developer",
             "quote": "Speechify is a shortcut for learning."
         },
@@ -284,7 +284,7 @@ const team = {
             "city": "Hyderabad",
             "lat": "18.385044",
             "lng": "78.486671",
-            "colorIndex": 2,
+            "colorIndex": 0,
             "position": "Web Product Manager",
             "quote": "Speechify helps me spend a lot less energy getting through the things I want to read."
         },
@@ -296,7 +296,7 @@ const team = {
             "city": "Bengaluru",
             "lat": "12.971599",
             "lng": "78.594566",
-            "colorIndex": 2,
+            "colorIndex": 1,
             "position": "Chrome Extension Tester",
             "quote": "Speechify is trying to fix a global clutter. It helps everyone no matter your cast, creed or color."
         },
@@ -308,7 +308,7 @@ const team = {
             "city": "Kharkiv",
             "lat": "50.993500",
             "lng": "37.230385",
-            "colorIndex": 2,
+            "colorIndex": 0,
             "position": "Customer Success Rep",
             "quote": "I love Speechify because it helps me improve my English and lets me communicate with people from different parts of the world."
         },
@@ -332,7 +332,7 @@ const team = {
             "city": "Kyiv",
             "lat": "50.447731",
             "lng": "30.542721",
-            "colorIndex": 2,
+            "colorIndex": 0,
             "position": "iOS Developer",
             "quote": "Love that fact that it helps people with learning or learning faster."
         },
@@ -344,7 +344,7 @@ const team = {
             "city": "Dhaka",
             "lat": "23.810331",
             "lng": "90.412521",
-            "colorIndex": 1,
+            "colorIndex": 2,
             "position": "Android Engineer",
             "quote": "The highlighting while it reads is so good!"
         },
@@ -368,7 +368,7 @@ const team = {
             "city": "London",
             "lat": "52.507351",
             "lng": "-0.127758",
-            "colorIndex": 1,
+            "colorIndex": 2,
             "position": "Platform Engineer",
             "quote": "I love working a Speechify. It gives me the opportunity to grow, collaborate and solve hard problems — all while being fully remote!"
         },
@@ -380,7 +380,7 @@ const team = {
             "city": "Dubai",
             "lat": "25.204849",
             "lng": "56.270782",
-            "colorIndex": 2,
+            "colorIndex": 1,
             "position": "Customer Success Rep",
             "quote": "I like that I can work from anywhere without being limited by a geographical location!"
         },
@@ -392,7 +392,7 @@ const team = {
             "city": "Toronto",
             "lat": "44.653225",
             "lng": "-79.383186",
-            "colorIndex": 2,
+            "colorIndex": 1,
             "position": "Copywriter",
             "quote": "At Speechify, I work with a brilliant, global team to create tools that empower and inspire. What’s not to love?"
         },
@@ -404,7 +404,7 @@ const team = {
             "city": "Los Angeles",
             "lat": "34.052235",
             "lng": "-118.243683",
-            "colorIndex": 2,
+            "colorIndex": 0,
             "position": "Creative Content Producer",
             "quote": "I love that Speechify gives me the creative freedom and trust to do great work."
         },
@@ -416,7 +416,7 @@ const team = {
             "city": "Playa Del Carmen",
             "lat": "32.828159",
             "lng": "-115.558990",
-            "colorIndex": 1,
+            "colorIndex": 2,
             "position": "Video Producer/Ad Specialist",
             "quote": "I love that we're helping people learn more effectively and we're innovative."
         },
@@ -428,7 +428,7 @@ const team = {
             "city": "Delhi",
             "lat": "28.704060",
             "lng": "78.102493",
-            "colorIndex": 1,
+            "colorIndex": 2,
             "position": "Recruiting Coordinator",
             "quote": "I get to work with a team of happy people and can work from anywhere in the world."
         },
@@ -440,7 +440,7 @@ const team = {
             "city": "Dubai",
             "lat": "26.204849",
             "lng": "56.270782",
-            "colorIndex": 1,
+            "colorIndex": 2,
             "position": "Recruiting Coordinator",
             "quote": "Speechify gives people reading superpowers!"
         },
@@ -450,8 +450,8 @@ const team = {
             "imageUrl": "https://firebasestorage.googleapis.com/v0/b/speechify-slack-bot.appspot.com/o/arjen.jpeg?alt=media&token=c56d0f23-80ea-477b-b765-f87e6210c4b9",
             "country": "Philippines",
             "city": "Nomad",
-            "lat": "-28.545361",
-            "lng": "151.916077",
+            "lat": "14.556586",
+            "lng": "121.023415",
             "colorIndex": 1,
             "position": "Creative Content Producer",
             "quote": "The best part about Speechify is the people!"
@@ -476,7 +476,7 @@ const team = {
             "city": "Cagayan de Oro",
             "lat": "8.454236",
             "lng": "125.631897",
-            "colorIndex": 0,
+            "colorIndex": 1,
             "position": "Recruiting Coordinator",
             "quote": "Aside from flexibility and learning new skills, I get to work with great people who have endless goals in changing the future of reading."
         },
@@ -488,7 +488,7 @@ const team = {
             "city": "Chicago",
             "lat": "41.878113",
             "lng": "-87.629799",
-            "colorIndex": 2,
+            "colorIndex": 0,
             "position": "Platform Engineer",
             "quote": "Working with my team is the best part about Speechify 😎"
         },
@@ -512,7 +512,7 @@ const team = {
             "city": "Dhaka",
             "lat": "24.810331",
             "lng": "91.412521",
-            "colorIndex": 1,
+            "colorIndex": 0,
             "position": "Android Engineer",
             "quote": "Love how Speechify gives me the freedom to take initiative to improve the product, which also gives me an immense opportunity to grow."
         },
@@ -524,7 +524,7 @@ const team = {
             "city": "Katowice",
             "lat": "50.264893",
             "lng": "19.023781",
-            "colorIndex": 0,
+            "colorIndex": 1,
             "position": "iOS Developer",
             "quote": "I love watching the hypergrowth of Speechify from the front seat."
         },
@@ -536,7 +536,7 @@ const team = {
             "city": "Berlin",
             "lat": "52.520008",
             "lng": "13.404954",
-            "colorIndex": 1,
+            "colorIndex": 0,
             "position": "Platform Engineer",
             "quote": "Listening + Reading = Better comprehension."
         },
@@ -545,10 +545,10 @@ const team = {
             "firstname": "Mattia",
             "imageUrl": "https://firebasestorage.googleapis.com/v0/b/speechify-slack-bot.appspot.com/o/mattia.jpeg?alt=media&token=e80468b5-7a9f-4413-b239-a9f637aca814",
             "country": "Netherlands",
-            "city": "Breda",
-            "lat": "51.571915",
-            "lng": "4.768323",
-            "colorIndex": 1,
+            "city": "Nomad",
+            "lat": "52.377956",
+            "lng": "4.897070",
+            "colorIndex": 0,
             "position": "Account Executive",
             "quote": "I can listen to things I wouldn’t read otherwise."
         },
@@ -560,7 +560,7 @@ const team = {
             "city": "Prague",
             "lat": "50.075539",
             "lng": "14.437800",
-            "colorIndex": 2,
+            "colorIndex": 0,
             "position": "Web & Chrome Engineer",
             "quote": "I love the flexibility, variety of work, good friendships, and technical proficiency I get to use every day."
         },
@@ -572,7 +572,7 @@ const team = {
             "city": "Seattle",
             "lat": "47.606209",
             "lng": "-122.332069",
-            "colorIndex": 2,
+            "colorIndex": 1,
             "position": "Mobile Product Manager & Strategy",
             "quote": "This is the best place to make a global impact while treating others with kindness and love."
         },
@@ -584,7 +584,7 @@ const team = {
             "city": "Miami",
             "lat": "27.761681",
             "lng": "-81.191788",
-            "colorIndex": 1,
+            "colorIndex": 2,
             "position": "Product Manager, B2B",
             "quote": "The people are the best part about working here!"
         },
@@ -596,7 +596,7 @@ const team = {
             "city": "Braga",
             "lat": "41.545448",
             "lng": "-8.426507",
-            "colorIndex": 0,
+            "colorIndex": 2,
             "position": "Platform Engineer",
             "quote": "I love the people I work with and the company's culture."
         },
@@ -608,7 +608,7 @@ const team = {
             "city": "Tbilisi",
             "lat": "42.715137",
             "lng": "44.827095",
-            "colorIndex": 2,
+            "colorIndex": 1,
             "position": "iOS Developer",
             "quote": "I love that it helps a lot of people throughout the world and the friendly environment that welcomed me. Plus, the more I work with code the more stunned I am by the awesome work of my coworkers!"
         },
@@ -620,7 +620,7 @@ const team = {
             "city": "Bengaluru",
             "lat": "11.971599",
             "lng": "77.594566",
-            "colorIndex": 2,
+            "colorIndex": 0,
             "position": "Finance Consultant",
             "quote": "The people here make it awesome."
         },
@@ -632,7 +632,7 @@ const team = {
             "city": "Los Angeles",
             "lat": "34.052235",
             "lng": "-119.243683",
-            "colorIndex": 2,
+            "colorIndex": 0,
             "position": "Consultant",
             "quote": "Speechify makes reading and learning surprisingly easy. It has the potential to change the way that people view themselves and their abilities. "
         },
@@ -668,7 +668,7 @@ const team = {
             "city": "Vienna",
             "lat": "48.208176",
             "lng": "16.373819",
-            "colorIndex": 0,
+            "colorIndex": 1,
             "position": "Platform Engineer",
             "quote": "I like the freedom you have in where you work, when you work, and how you work here."
         },
@@ -680,7 +680,7 @@ const team = {
             "city": "Dapitan City",
             "lat": "8.625319",
             "lng": "123.394571",
-            "colorIndex": 0,
+            "colorIndex": 1,
             "position": "Customer Success Rep",
             "quote": "Work environment is what I love about working at Speechify. Love the people, love the pay, love everything about it."
         },
@@ -692,7 +692,7 @@ const team = {
             "city": "Lapu-Lapu City",
             "lat": "10.266182",
             "lng": "123.997292",
-            "colorIndex": 0,
+            "colorIndex": 1,
             "position": "Customer Success Rep",
             "quote": "Work-life balance is great!!!"
         },
@@ -704,7 +704,7 @@ const team = {
             "city": "Cagayan de Oro City",
             "lat": "9.454236",
             "lng": "124.631897",
-            "colorIndex": 0,
+            "colorIndex": 1,
             "position": "Customer Success Rep",
             "quote": "Great culture and management."
         },
@@ -716,7 +716,7 @@ const team = {
             "city": "Iligan City",
             "lat": "8.2280",
             "lng": "124.2452",
-            "colorIndex": 2,
+            "colorIndex": 0,
             "position": "Customer Success Rep",
             "quote": "I’m working with a great team, helping awesome customers, and supporting an impactful product."
         },
@@ -728,7 +728,7 @@ const team = {
             "city": "Malanang Opol Misamis Oriental",
             "lat": "8.4895",
             "lng": "124.5667",
-            "colorIndex": 0,
+            "colorIndex": 2,
             "position": "Customer Success Rep",
             "quote": "With Speechify, I got good compensation with awesome leaders and approachable engineers to help me provide great customer service to our users."
         },
@@ -740,19 +740,19 @@ const team = {
             "city": "Cagayan de Oro",
             "lat": "9.454236",
             "lng": "125.631897",
-            "colorIndex": 0,
+            "colorIndex": 2,
             "position": "Customer Success Rep",
             "quote": "The play button and its accuracy is amazing! 🙂"
         },
         {
             "id": 63,
             "firstname": "Sheila",
-            "imageUrl": "https://firebasestorage.googleapis.com/v0/b/speechify-slack-bot.appspot.com/o/sheila.jpeg?alt=media&token=e6d768cb-0aec-4073-920f-0a9a606e7f17",
+            "imageUrl": "https://firebasestorage.googleapis.com/v0/b/speechify-slack-bot.appspot.com/o/sheila.jpg?alt=media&token=3da902d7-2771-491c-9224-4e01551e5633",
             "country": "Philippines",
             "city": "Iligan City",
             "lat": "9.2280",
             "lng": "124.2452",
-            "colorIndex": 2,
+            "colorIndex": 1,
             "position": "Customer Success Rep",
             "quote": "Awesome people, great product, and flexibility at work. I am blessed to be part of the Speechify team."
         },
@@ -764,7 +764,7 @@ const team = {
             "city": "Cebu City",
             "lat": "10.31672",
             "lng": "123.89071",
-            "colorIndex": 0,
+            "colorIndex": 1,
             "position": "Customer Success Rep",
             "quote": "Great place to work. Speechify is one of the best companies I have worked so far. Awesome company culture where everyone lends a helping hand!"
         },
@@ -774,9 +774,9 @@ const team = {
             "imageUrl": "https://firebasestorage.googleapis.com/v0/b/speechify-slack-bot.appspot.com/o/andy.jpeg?alt=media&token=b6be19c1-e0f0-4451-b704-418b1631ee7d",
             "country": "US",
             "city": "Nomad",
-            "lat": "-27.545361",
-            "lng": "152.916077",
-            "colorIndex": 1,
+            "lat": "49.751076",
+            "lng": "-120.740135",
+            "colorIndex": 2,
             "position": "Principal Product Manager",
             "quote": "Great momentum and great people!"
         },
@@ -788,7 +788,7 @@ const team = {
             "city": "Cambridge",
             "lat": "52.205338",
             "lng": "0.121817",
-            "colorIndex": 0,
+            "colorIndex": 2,
             "position": "Organic Social Media Lead",
             "quote": "Speechify is great because it brings talent all over the world to work together."
         },
@@ -798,9 +798,9 @@ const team = {
             "imageUrl": "https://firebasestorage.googleapis.com/v0/b/speechify-slack-bot.appspot.com/o/valentin.jpeg?alt=media&token=b2b5d6b9-c2f9-4d08-8cde-6d3348f2b06e",
             "country": "US",
             "city": "Nomad",
-            "lat": "-27.545361",
-            "lng": "150.916077",
-            "colorIndex": 0,
+            "lat": "47.751076",
+            "lng": "-122.740135",
+            "colorIndex": 1,
             "position": "Web & Chrome Engineer",
             "quote": "It's a unique product market fit."
         },
@@ -812,7 +812,7 @@ const team = {
             "city": "Svaliava",
             "lat": "48.545570",
             "lng": "22.989480",
-            "colorIndex": 2,
+            "colorIndex": 0,
             "position": "QA Engineer",
             "quote": "Amazing product that helps people all around the world improve their lives!"
         },
@@ -824,7 +824,7 @@ const team = {
             "city": "Kyiv",
             "lat": "51.447731",
             "lng": "30.542721",
-            "colorIndex": 1,
+            "colorIndex": 2,
             "position": "iOS Developer",
             "quote": "The best part about Speechify is the team ❤️"
         },
@@ -836,7 +836,7 @@ const team = {
             "city": "Tbilisi",
             "lat": "41.715137",
             "lng": "45.827095",
-            "colorIndex": 0,
+            "colorIndex": 2,
             "position": "QA Engineer",
             "quote": "Speechify helps people change their daily lives. I love the flexibility, friendly environment, and that the company's \"why\" is behind everything we do."
         },
@@ -848,7 +848,7 @@ const team = {
             "city": "San Leonardo, Nueva Ecija",
             "lat": "15.3729",
             "lng": "120.9532",
-            "colorIndex": 2,
+            "colorIndex": 1,
             "position": "Customer Success Rep",
             "quote": "I love how I'm able to work with great people at the comfort of my home."
         },
@@ -860,7 +860,7 @@ const team = {
             "city": "Cabanatuan City, Nueva Ecija",
             "lat": "16.3729",
             "lng": "120.9532",
-            "colorIndex": 0,
+            "colorIndex": 2,
             "position": "Customer Success Rep",
             "quote": "I love that Speechify supports diversity so we can work with people around the globe."
         },
@@ -884,7 +884,7 @@ const team = {
             "city": "Bengaluru",
             "lat": "8.2280",
             "lng": "123.2452",
-            "colorIndex": 1,
+            "colorIndex": 0,
             "position": "QA Engineer",
             "quote": "People rarely succeed unless they have fun in what they are doing. We at Speechify own every bit of what we do, it belongs to us, here work is more like having fun."
         },
@@ -896,7 +896,7 @@ const team = {
             "city": "Kyiv",
             "lat": "50.447731",
             "lng": "31.542721",
-            "colorIndex": 2,
+            "colorIndex": 1,
             "position": "iOS Developer",
             "quote": "Great app and idea that helps millions of people!"
         },
@@ -968,7 +968,7 @@ const team = {
             "city": "Somerset",
             "lat": "51.1051",
             "lng": "2.9262",
-            "colorIndex": 0,
+            "colorIndex": 2,
             "position": "Recruiter",
             "quote": "I'm trusted that I can get the work done, wherever I may be!"
         },
@@ -980,7 +980,7 @@ const team = {
             "city": "Delhi",
             "lat": "29.704060",
             "lng": "77.102493",
-            "colorIndex": 2,
+            "colorIndex": 1,
             "position": "Recruiting Coordinator",
             "quote": "The best part about working with Speechify is that even though the company is remote, there has never been a communication gap. It gives you the opportunity to grow and learn with people from diverse cultures across the globe."
         },
@@ -992,7 +992,7 @@ const team = {
             "city": "Gurugram",
             "lat": "29.459497",
             "lng": "76.026634",
-            "colorIndex": 1,
+            "colorIndex": 0,
             "position": "People Operations",
             "quote": "I love the freedom and complete ownership to give your best, while working with one of the smartest groups of people who are equally as humble."
         },
@@ -1004,7 +1004,7 @@ const team = {
             "city": "Tbilisi",
             "lat": "42.715137",
             "lng": "43.827095",
-            "colorIndex": 0,
+            "colorIndex": 1,
             "position": "iOS Developer",
             "quote": "First of all, I love the people who work at Speechify. Plus the product is amazing, has really good features, and it makes it easy to read. "
         },
@@ -1052,7 +1052,7 @@ const team = {
             "city": "Shenzhen",
             "lat": "22.543097",
             "lng": "114.057861",
-            "colorIndex": 1,
+            "colorIndex": 2,
             "position": "Senior Product Designer",
             "quote": "As a designer, Speechify gives me a digital environment and the stimulus to keep me motivated, inspired, driven, and creative."
         },
@@ -1088,7 +1088,7 @@ const team = {
             "city": "Cagayan de Oro City",
             "lat": "7.454236",
             "lng": "124.631897",
-            "colorIndex": 0,
+            "colorIndex": 2,
             "position": "Customer Success Rep",
             "quote": "Speechify is family. This is the BEST type of company culture!"
         },
@@ -1100,7 +1100,7 @@ const team = {
             "city": "Lapu-Lapu City",
             "lat": "11.266182",
             "lng": "123.997292",
-            "colorIndex": 0,
+            "colorIndex": 2,
             "position": "Customer Service Rep",
             "quote": "I love the virtual setup and being able to collaborate with people across the globe!"
         },
@@ -1112,7 +1112,7 @@ const team = {
             "city": "Toronto",
             "lat": "43.653225",
             "lng": "-80.383186",
-            "colorIndex": 2,
+            "colorIndex": 1,
             "position": "Sourcer",
             "quote": "We are the product and the team. The product wouldn't be what it is without our amazing team. And we wouldn't be a team without our shared love for Speechify! A win-win."
         },
@@ -1160,7 +1160,7 @@ const team = {
             "city": "London",
             "lat": "51.507351",
             "lng": "-0.127758",
-            "colorIndex": 1,
+            "colorIndex": 2,
             "position": "Employer Brand & Communications",
             "quote": "Undoubtedly, what I like the most about working at Speechify are the people. Having a team so diverse and all working around the same mission and values creates an unique working environment that motivates you."
         },
@@ -1172,7 +1172,7 @@ const team = {
             "city": "Seattle",
             "lat": "47.606209",
             "lng": "-121.332069",
-            "colorIndex": 1,
+            "colorIndex": 0,
             "position": "Senior Recruiter",
             "quote": "What I like most is working for a product that helps people and removes some of the barriers for anyone who struggles to read. I also love the people here and how kind they are."
         },
@@ -1196,7 +1196,7 @@ const team = {
             "city": "Atlanta",
             "lat": "33.748783",
             "lng": "-84.388168",
-            "colorIndex": 1,
+            "colorIndex": 0,
             "position": "SEO Lead",
             "quote": "Learning to love the product. It is pretty convenient and efficient. I can listen faster than I can read. Company-wise, love the energy, the big scary vision and goals. I love the challenge."
         },
@@ -1208,7 +1208,7 @@ const team = {
             "city": "Minneapolis",
             "lat": "44.9778",
             "lng": "-93.2650",
-            "colorIndex": 0,
+            "colorIndex": 1,
             "position": "Customer Lifecycle",
             "quote": "Love the company mission."
         },
@@ -1220,7 +1220,7 @@ const team = {
             "city": "Miami",
             "lat": "27.761681",
             "lng": "-82.191788",
-            "colorIndex": 2,
+            "colorIndex": 0,
             "position": "Head of Brand",
             "quote": "The Speechify family is an incredibly-bright team. We're a unique group of experts passionate about helping people unlock information and are giving a new voice to the internet. We’re just getting started."
         },
@@ -1232,7 +1232,7 @@ const team = {
             "city": "Miami",
             "lat": "24.761681",
             "lng": "-80.191788",
-            "colorIndex": 1,
+            "colorIndex": 0,
             "position": "Head of AI",
             "quote": "Leadership at Speechify is driven by love, and everyone is always working together to help drive our mission to be the voice of the internet"
         },
@@ -1244,7 +1244,7 @@ const team = {
             "city": "Los Angeles",
             "lat": "33.0522",
             "lng": "-117.2437",
-            "colorIndex": 1,
+            "colorIndex": 0,
             "position": "Video Producer/Ad Specialist",
             "quote": "I love the passion that everyone who works at Speechify has. And I love how Speechify is changing and improving how people access their information."
         },
@@ -1268,7 +1268,7 @@ const team = {
             "city": "Delhi",
             "lat": "28.704060",
             "lng": "79.102493",
-            "colorIndex": 1,
+            "colorIndex": 0,
             "position": "Sourcer",
             "quote": "If I could sum up working at speechify in a song, it would be \"Ay ay ay, I am on vacation every single day 'cause I love my occupation\""
         },
@@ -1280,13 +1280,25 @@ const team = {
             "city": "Delhi",
             "lat": "29.704060",
             "lng": "79.102493",
-            "colorIndex": 1,
+            "colorIndex": 2,
             "position": "Sourcer",
             "quote": "Things I like about working at speechify are their values and principles and how the leadership of the company follow what they preach. Everyone is very supportive, approachable and connected despite living in different countries across the world."
+        },
+        {
+            "id": 111,
+            "firstname": "Slawomir",
+            "imageUrl": "https://firebasestorage.googleapis.com/v0/b/speechify-slack-bot.appspot.com/o/slawomir.jpeg?alt=media&token=854a58a4-099b-48fc-9fa4-75f3eaecc8e1",
+            "country": "Poland",
+            "city": "Warsaw",
+            "lat": "52.237049",
+            "lng": "21.017532",
+            "colorIndex": 1,
+            "position": "Platform Engineer",
+            "quote": "Eyes-free information ingestion 🙂"
         }
     ],
     "countries": 25,
-    "nomads": 4,
+    "nomads": 5,
     "people": 112,
     "membersByCountry": {
         "US": 36,
